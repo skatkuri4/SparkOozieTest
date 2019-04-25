@@ -208,8 +208,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" sideWeight="0.49484536" weight="0.32889965" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4993895" visible="true" weight="0.32959184" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4993895" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Build" order="11" sideWeight="0.49852726" weight="0.32889965" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4992636" weight="0.32889965" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
